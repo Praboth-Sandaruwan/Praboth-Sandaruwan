@@ -176,7 +176,7 @@ services and Firebase Auth.
 - ◆ Based in **Piliyandala, Colombo — Sri Lanka** · open to remote collaboration
 - ◆ Speaks **Sinhala & English**
 - ◆ **Open to collaborations** on real-time systems and AI-integrated products
-- ◆ B.Sc. (Hons) IT candidate @ SLIIT, class of **2026**
+- ◆ B.Sc. (Hons) IT (SE) candidate @ SLIIT, class of **2026**
 
 ---
 
