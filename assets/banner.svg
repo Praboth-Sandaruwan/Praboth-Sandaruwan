@@ -1,0 +1,49 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="B. Praboth Sandaruwan — Full Stack Developer">
+  <defs>
+    <linearGradient id="neon" x1="140" y1="0" x2="1060" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00F5D4"/>
+      <stop offset="0.5" stop-color="#9B5DE5"/>
+      <stop offset="1" stop-color="#F15BB5"/>
+    </linearGradient>
+    <linearGradient id="subFade" x1="330" y1="0" x2="870" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B949E" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#C9D1D9" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#8B949E" stop-opacity="0.45"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9B5DE5" stroke-opacity="0.08"/>
+    </pattern>
+    <radialGradient id="halo" cx="0.5" cy="0.42" r="0.65">
+      <stop offset="0" stop-color="#9B5DE5" stop-opacity="0.14"/>
+      <stop offset="0.55" stop-color="#00F5D4" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0D1117"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <rect width="1200" height="260" fill="url(#halo)"/>
+
+  <text x="600" y="122" text-anchor="middle"
+        font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="62" font-weight="800" letter-spacing="4"
+        fill="url(#neon)" filter="url(#glow)">PRABOTH SANDARUWAN</text>
+
+  <text x="600" y="170" text-anchor="middle"
+        font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="18" font-weight="600" letter-spacing="15"
+        fill="url(#subFade)">FULL STACK DEVELOPER</text>
+
+  <line x1="392" y1="206" x2="566" y2="206" stroke="#00F5D4" stroke-opacity="0.55" stroke-width="2"/>
+  <rect x="595" y="201" width="9" height="9" transform="rotate(45 599.5 205.5)" fill="#9B5DE5"/>
+  <line x1="634" y1="206" x2="808" y2="206" stroke="#F15BB5" stroke-opacity="0.55" stroke-width="2"/>
+
+  <rect x="0.5" y="0.5" width="1199" height="259" stroke="#9B5DE5" stroke-opacity="0.25" rx="14"/>
+</svg>
