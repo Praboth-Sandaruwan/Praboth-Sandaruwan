@@ -88,45 +88,6 @@ shipping reliable products.
 
 ---
 
-## ◈ Featured Projects
-
-### ◆ Restaurant Delivery Platform
-
-Delivery module inside a microservices architecture — real-time driver tracking, live route
-updates and notifications rendered on maps.
-
-`FastAPI` `React.js` `MongoDB` `Google Maps` `Microservices`
-
-### ◆ Accessible E-Learning
-
-Gesture-driven virtual classroom for visually impaired learners, layering voice and haptic
-feedback over live streamed sessions.
-
-`Flutter` `Firebase` `Agora` `Firestore`
-
-### ◆ Automated Finance Manager
-
-Backend engine that schedules bill payments, refills budgets, scans transactions and pushes
-real-time notifications over WebSockets.
-
-`Node.js` `Express` `MongoDB` `WebSockets`
-
-### ◆ Swimming Club E-commerce
-
-E-commerce module for a club management system — catalog, cart and checkout flows with a Redux
-state layer.
-
-`MongoDB` `Express` `React` `Node.js` `Redux`
-
-### ◆ Emergency Response App
-
-Emergency hospital locator with real-time routing and tracking, built on Google Maps, location
-services and Firebase Auth.
-
-`Google Maps` `Firebase Auth` `Location Services`
-
----
-
 ## ◈ GitHub Stats
 
 <div align="center">
@@ -173,7 +134,6 @@ services and Firebase Auth.
 
 ## ◈ Beyond the Code
 
-- ◆ Based in **Piliyandala, Colombo — Sri Lanka** · open to remote collaboration
 - ◆ Speaks **Sinhala & English**
 - ◆ **Open to collaborations** on real-time systems and AI-integrated products
 - ◆ B.Sc. (Hons) IT (SE) candidate @ SLIIT, class of **2026**
